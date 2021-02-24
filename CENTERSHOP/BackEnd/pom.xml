@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>it.unicam.ing</groupId>
-	<artifactId>Dreams</artifactId>
+	<artifactId>BackEnd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Dreams</name>
 	<description>Demo project for Spring Boot</description>
